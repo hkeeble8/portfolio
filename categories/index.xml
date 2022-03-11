@@ -1,7 +1,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - Henri Keeble</title>
+        <title>Categories - Category - Henri Keeble Test</title>
         <link>https://hkeeble8.github.io/portfolio/categories/</link>
-        <description>Categories - Category - Henri Keeble</description>
+        <description>Categories - Category - Henri Keeble Test</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://hkeeble8.github.io/portfolio/categories/" rel="self" type="application/rss+xml" /></channel>
 </rss>
